@@ -4,7 +4,7 @@ defmodule Asn1ex.Mixfile do
   def project do
     [app: :asn1ex,
      version: "0.0.1",
-     elixir: ">= 0.15.1 and ~> 1.4.2",
+     elixir: ">= 1.3.4",
      deps: deps()]
   end
 
